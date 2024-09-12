@@ -1,6 +1,6 @@
 import React from 'react';
 
-import AdemImg from '../img/home/main.jpg';
+import AdemImg from '../img/home/main.png';
 import { Link } from 'react-router-dom';
 
 import {motion} from 'framer-motion' ;
